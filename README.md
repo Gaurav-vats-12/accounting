@@ -1,21 +1,3 @@
-﻿# Akaunting™
-
-[![Release](https://img.shields.io/github/v/release/akaunting/akaunting?label=release)](https://github.com/akaunting/akaunting/releases)
-![Downloads](https://img.shields.io/github/downloads/akaunting/akaunting/total?label=downloads)
-[![Translations](https://badges.crowdin.net/akaunting/localized.svg)](https://crowdin.com/project/akaunting)
-[![Tests](https://img.shields.io/github/actions/workflow/status/akaunting/akaunting/tests.yml?label=tests)](https://github.com/akaunting/akaunting/actions)
-
-Online accounting software designed for small businesses and freelancers. Akaunting is built with modern technologies such as Laravel, VueJS, Tailwind, RESTful API etc. Thanks to its modular structure, Akaunting provides an awesome App Store for users and developers.
-
-* [Home](https://akaunting.com) - The house of Akaunting
-* [Forum](https://akaunting.com/forum) - Ask for support
-* [Documentation](https://akaunting.com/hc/docs) - Learn how to use
-* [Developer Portal](https://developer.akaunting.com) - Generate passive income
-* [App Store](https://akaunting.com/apps) - Extend your Akaunting
-* [Translations](https://crowdin.com/project/akaunting) - Help us translate Akaunting
-
-## Requirements
-
 * PHP 8.1 or higher
 * Database (e.g.: MySQL, PostgreSQL, SQLite)
 * Web Server (eg: Apache, Nginx, IIS)
